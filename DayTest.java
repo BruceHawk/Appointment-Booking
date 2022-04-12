@@ -12,12 +12,12 @@ import org.junit.jupiter.api.Test;
 /**
  * The test class DayTest.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Hassan)
+ * @version (29/1/2022)
  */
 public class DayTest {
 
-	// TODO - add your tests here!
+	
 	Day day;
 	
 	@BeforeEach public void setup () {
